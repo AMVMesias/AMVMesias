@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/AMVMesias/AMVMesias/main/github_profile_banner.png)
+![Banner](https://raw.githubusercontent.com/AMVMesias/AMVMesias/main/image.png)
 
 <h3>💻 Software Engineering Student | 🛡️ Cybersecurity Enthusiast | 📱 Flutter Developer</h3>
 
@@ -42,16 +42,27 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes de Programación
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🌐 Desarrollo Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 📱 Desarrollo Móvil
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🤖 Machine Learning & Data Science
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🐧 Sistemas Operativos
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -61,6 +72,7 @@
 ### 🛠️ Herramientas y Tecnologías
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -74,11 +86,11 @@
 <div align="center">
 
 <a href="https://github.com/AMVMesias">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AMVMesias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AMVMesias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMVMesias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMVMesias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AMVMesias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AMVMesias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -88,7 +100,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AMVMesias&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=AMVMesias&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -111,27 +123,27 @@
 <div align="center">
 
 <a href="https://github.com/AMVMesias/STROKEPREDICTION">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=STROKEPREDICTION&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=STROKEPREDICTION&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/AMVMesias/FlowerM">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=FlowerM&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=FlowerM&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/AMVMesias/Desarrollo-Movil">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=Desarrollo-Movil&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=Desarrollo-Movil&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/AMVMesias/Arbol-AVL">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=Arbol-AVL&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=Arbol-AVL&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/AMVMesias/snake-IA">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=snake-IA&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=snake-IA&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/AMVMesias/FRACTALES">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=FRACTALES&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=FRACTALES&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -141,12 +153,34 @@
 ## 💼 Experiencia en Proyectos
 
 ### 📱 Desarrollo de Aplicaciones Móviles con Flutter
-- Creación de aplicaciones móviles multiplataforma
+- Creación de aplicaciones móviles multiplataforma con **Dart/Flutter**
 - Implementación de interfaces de usuario responsivas
 - Integración de APIs y manejo de estado
 - Optimización de rendimiento en dispositivos móviles
 
-### 🤖 Automatización de Procesos en Linux
+### 🤖 Machine Learning & Data Science
+- Proyecto de **predicción de Stroke** usando algoritmos de ML
+- Análisis de datos con **Jupyter Notebooks**
+- Preprocesamiento y limpieza de datos con **Pandas**
+- Implementación de modelos con **scikit-learn**
+
+### 🌐 Desarrollo Web Full Stack
+- Aplicaciones web con **HTML5, CSS3, JavaScript**
+- Proyectos con **TypeScript** (elgranito-finance-hub)
+- Desarrollo backend con **.NET Core MVC**
+- Sistemas de gestión (veterinaria, alquiler de vehículos)
+
+### 🎮 Algoritmos Gráficos con C#
+- Implementación del algoritmo **Cohen-Sutherland**
+- Desarrollo de algoritmos gráficos computacionales
+- Proyectos de gráficos por computadora y figuras geométricas
+
+### 🧠 Inteligencia Artificial
+- **Snake con IA** usando algoritmos de aprendizaje
+- Agentes inteligentes (agente_otitis)
+- Lógica de predicados con **Prolog**
+
+### 🖥️ Automatización de Procesos en Linux
 - Scripts de automatización en **Bash** y **Python**
 - Configuración y personalización de **Arch Linux**
 - Optimización de flujos de trabajo
@@ -186,16 +220,24 @@
 ```javascript
 const mesias = {
     pronouns: "él",
-    code: ["Dart", "Python", "C++", "JavaScript", "Java", "C#"],
-    askMeAbout: ["Flutter", "Linux", "Cybersecurity", "Mobile Dev"],
+    code: ["Python", "C#", "JavaScript", "TypeScript", "Dart", "C", "Java"],
+    askMeAbout: ["Flutter", "Linux", "Cybersecurity", "Machine Learning", "Web Dev"],
     technologies: {
-        mobile: ["Flutter", "Android"],
-        devOps: ["Terraform", "Azure DevOps", "CI/CD"],
+        mobile: ["Flutter", "Dart", "Android"],
+        web: ["HTML5", "CSS3", "JavaScript", "TypeScript", ".NET Core"],
+        ml: ["Jupyter", "scikit-learn", "Pandas", "Data Analysis"],
+        graphics: ["C# Graphics", "Algoritmos Gráficos", "Cohen-Sutherland"],
+        devOps: ["Terraform", "Azure DevOps", "CI/CD", "K6"],
         operatingSystems: ["Arch Linux", "Kali Linux", "Windows"],
-        tools: ["Git", "GitHub", "LaTeX"]
+        tools: ["Git", "GitHub", "GitHub Copilot", "LaTeX", "Bash"]
     },
-    currentFocus: "Building secure and efficient mobile applications",
-    funFact: "I love customizing my Arch Linux setup 🐧"
+    currentProjects: {
+        ai: "Predicción de Stroke con ML",
+        mobile: "Desarrollo de apps en Flutter",
+        web: "Sistemas de gestión y landing pages"
+    },
+    currentFocus: "Building secure and efficient applications",
+    funFact: "Top 5 en Hackathon Banco Pichincha 2025 🏆"
 };
 ```
 

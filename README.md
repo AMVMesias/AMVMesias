@@ -1,15 +1,25 @@
 <div align="center">
-  
-# 👋 ¡Hola! Soy Mesias Orlando Mariscal Oña
 
-### 💻 Software Engineering Student | 🛡️ Cybersecurity Enthusiast | 📱 Flutter Developer
+![Banner](https://raw.githubusercontent.com/AMVMesias/AMVMesias/main/github_profile_banner.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesias-mariscal-a3a483228/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesiasv2@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Sangolquí,_Ecuador-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
+<h3>💻 Software Engineering Student | 🛡️ Cybersecurity Enthusiast | 📱 Flutter Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AMVMesias&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/AMVMesias?style=for-the-badge&logo=github)](https://github.com/AMVMesias?tab=followers)
+<p>
+  <a href="https://www.linkedin.com/in/mesias-mariscal-a3a483228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mesiasv2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Sangolquí,_Ecuador-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AMVMesias&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AMVMesias?style=flat-square&logo=github" alt="Followers"/>
+</p>
 
 </div>
 
@@ -62,12 +72,23 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMVMesias&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMVMesias&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+<a href="https://github.com/AMVMesias">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AMVMesias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AMVMesias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMVMesias&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AMVMesias&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trofeos
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AMVMesias&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -84,6 +105,38 @@
 - 🚀 Modernización de aplicaciones legacy
 
 ---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<a href="https://github.com/AMVMesias/STROKEPREDICTION">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=STROKEPREDICTION&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/AMVMesias/FlowerM">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=FlowerM&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/AMVMesias/Desarrollo-Movil">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=Desarrollo-Movil&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/AMVMesias/Arbol-AVL">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=Arbol-AVL&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/AMVMesias/snake-IA">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=snake-IA&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/AMVMesias/FRACTALES">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AMVMesias&repo=FRACTALES&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+
 
 ## 💼 Experiencia en Proyectos
 

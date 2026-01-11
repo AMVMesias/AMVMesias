@@ -33,8 +33,6 @@
 
 🐧 Entusiasta de **Linux** (Arch Linux, Kali Linux) con enfoque en automatización de procesos
 
-🏆 **Top 5** en Hackathon Banco Pichincha 2025 - Resolución de 18 retos técnicos
-
 💡 Enfocado en la resolución creativa de problemas y la mejora continua
 
 ---
@@ -92,44 +90,6 @@
 </div>
 
 ---
-
-## 🏆 Logros Destacados
-
-### 🥇 Hackathon Banco Pichincha 2025 - **Top 5**
-- ✅ Resolución de **18 retos técnicos** complejos
-- 🤖 Uso de **GitHub Copilot** como asistente principal
-- 🔧 Desarrollo multi-stack: **Python, Node.js, C#, Java**
-- ☁️ Implementación de **IaC con Terraform** y pipelines **CI/CD en Azure DevOps**
-- 📊 Pruebas de carga con **K6** y pruebas unitarias
-- 🚀 Modernización de aplicaciones legacy
-
----
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-### 🤖 [STROKEPREDICTION](https://github.com/AMVMesias/STROKEPREDICTION)
-Predicción de Stroke usando Machine Learning con Jupyter Notebook
-
-### 📱 [Desarrollo-Movil](https://github.com/AMVMesias/Desarrollo-Movil)
-Proyectos de desarrollo móvil con Flutter/Dart
-
-### 🌸 [FlowerM](https://github.com/AMVMesias/FlowerM)
-Proyecto web con CSS y diseño floral
-
-### 🎮 [Snake-IA](https://github.com/AMVMesias/snake-IA)
-Juego Snake con inteligencia artificial en Python
-
-### 🌀 [FRACTALES](https://github.com/AMVMesias/FRACTALES)
-Generador de fractales con JavaScript
-
-### 💼 [elgranito-finance-hub](https://github.com/AMVMesias/elgranito-finance-hub)
-Hub financiero desarrollado con TypeScript
-
-</div>
-
-
 
 ## 💼 Experiencia en Proyectos
 

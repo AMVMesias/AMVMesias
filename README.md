@@ -89,48 +89,6 @@
 
 </div>
 
----
-
-## 💼 Experiencia en Proyectos
-
-### 📱 Desarrollo de Aplicaciones Móviles con Flutter
-- Creación de aplicaciones móviles multiplataforma con **Dart/Flutter**
-- Implementación de interfaces de usuario responsivas
-- Integración de APIs y manejo de estado
-- Optimización de rendimiento en dispositivos móviles
-
-### 🤖 Machine Learning & Data Science
-- Proyecto de **predicción de Stroke** usando algoritmos de ML
-- Análisis de datos con **Jupyter Notebooks**
-- Preprocesamiento y limpieza de datos con **Pandas**
-- Implementación de modelos con **scikit-learn**
-
-### 🌐 Desarrollo Web Full Stack
-- Aplicaciones web con **HTML5, CSS3, JavaScript**
-- Proyectos con **TypeScript** (elgranito-finance-hub)
-- Desarrollo backend con **.NET Core MVC**
-- Sistemas de gestión (veterinaria, alquiler de vehículos)
-
-### 🎮 Algoritmos Gráficos con C#
-- Implementación del algoritmo **Cohen-Sutherland**
-- Desarrollo de algoritmos gráficos computacionales
-- Proyectos de gráficos por computadora y figuras geométricas
-
-### 🧠 Inteligencia Artificial
-- **Snake con IA** usando algoritmos de aprendizaje
-- Agentes inteligentes (agente_otitis)
-- Lógica de predicados con **Prolog**
-
-### 🖥️ Automatización de Procesos en Linux
-- Scripts de automatización en **Bash** y **Python**
-- Configuración y personalización de **Arch Linux**
-- Optimización de flujos de trabajo
-- Solución de problemas de sistema y redes
-
-### 🔐 Ciberseguridad
-- Práctica con herramientas de **Kali Linux**
-- Análisis de vulnerabilidades
-- Hardening de sistemas Linux
 
 ---
 

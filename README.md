@@ -81,26 +81,13 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/AMVMesias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMVMesias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMVMesias&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AMVMesias&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trofeos
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AMVMesias&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+![GitHub Stats](https://img.shields.io/github/followers/AMVMesias?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/AMVMesias?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=AMVMesias&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -122,29 +109,23 @@
 
 <div align="center">
 
-<a href="https://github.com/AMVMesias/STROKEPREDICTION">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=STROKEPREDICTION&theme=tokyonight&hide_border=true" />
-</a>
+### 🤖 [STROKEPREDICTION](https://github.com/AMVMesias/STROKEPREDICTION)
+Predicción de Stroke usando Machine Learning con Jupyter Notebook
 
-<a href="https://github.com/AMVMesias/FlowerM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=FlowerM&theme=tokyonight&hide_border=true" />
-</a>
+### 📱 [Desarrollo-Movil](https://github.com/AMVMesias/Desarrollo-Movil)
+Proyectos de desarrollo móvil con Flutter/Dart
 
-<a href="https://github.com/AMVMesias/Desarrollo-Movil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=Desarrollo-Movil&theme=tokyonight&hide_border=true" />
-</a>
+### 🌸 [FlowerM](https://github.com/AMVMesias/FlowerM)
+Proyecto web con CSS y diseño floral
 
-<a href="https://github.com/AMVMesias/Arbol-AVL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=Arbol-AVL&theme=tokyonight&hide_border=true" />
-</a>
+### 🎮 [Snake-IA](https://github.com/AMVMesias/snake-IA)
+Juego Snake con inteligencia artificial en Python
 
-<a href="https://github.com/AMVMesias/snake-IA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=snake-IA&theme=tokyonight&hide_border=true" />
-</a>
+### 🌀 [FRACTALES](https://github.com/AMVMesias/FRACTALES)
+Generador de fractales con JavaScript
 
-<a href="https://github.com/AMVMesias/FRACTALES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMVMesias&repo=FRACTALES&theme=tokyonight&hide_border=true" />
-</a>
+### 💼 [elgranito-finance-hub](https://github.com/AMVMesias/elgranito-finance-hub)
+Hub financiero desarrollado con TypeScript
 
 </div>
 
